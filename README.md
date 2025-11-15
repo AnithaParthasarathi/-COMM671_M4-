@@ -1,14 +1,17 @@
 # -COMM671_M4-
 
-This is my list
-# for H1
 
-## for H2
+# My First Repository
+## I am  creating my first repository
 
-Bold: **bold**
+Bold: **bold** 
 
 Italics: *italic*
 
-Bulleted list: - item
+Bulleted list:
+- list item1
+- list item 2
 
-Numbered list: 1. item
+Numbered list: 
+1. item
+ 2. item
